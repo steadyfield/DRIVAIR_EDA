@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=DRIVAIR_EDA.PrjPCB
+[Project2]
+ProjectPath=UL_Import\UL_Import.PrjScr
