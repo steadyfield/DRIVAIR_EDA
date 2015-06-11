@@ -1,0 +1,20 @@
+Added Component: Designator=U1(MXA16A)
+Added Pin To Net: NetName=NetCin_1 Pin=U1-1
+Added Pin To Net: NetName=NetRuv1_1 Pin=U1-2
+Added Pin To Net: NetName=NetCss_1 Pin=U1-3
+Added Pin To Net: NetName=NetCramp_1 Pin=U1-4
+Added Pin To Net: NetName=NetRt_1 Pin=U1-5
+Added Pin To Net: NetName=0 Pin=U1-6
+Added Pin To Net: NetName=NetCcomp_2 Pin=U1-7
+Added Pin To Net: NetName=NetChf_2 Pin=U1-8
+Added Pin To Net: NetName=NetCout1_1 Pin=U1-9
+Added Pin To Net: NetName=NetCdthr_2 Pin=U1-10
+Added Pin To Net: NetName=0 Pin=U1-11
+Added Pin To Net: NetName=NetD1_1 Pin=U1-12
+Added Pin To Net: NetName=NetCboot_1 Pin=U1-13
+Added Pin To Net: NetName=NetM1_4 Pin=U1-14
+Added Pin To Net: NetName=NetCboot_2 Pin=U1-15
+Added Pin To Net: NetName=NetCvcc_1 Pin=U1-16
+Added Pin To Net: NetName=0 Pin=U1-17
+Added Class: Name=Backbone_12V_DCDC
+Added Room: Name=Backbone_12V_DCDC
