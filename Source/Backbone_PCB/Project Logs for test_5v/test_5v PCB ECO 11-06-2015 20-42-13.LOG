@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=Cvcc NewDesignator=C7_Vcc
+Change Net Name : Old Net Name=NetCin_1 New Net Name=NetC7_Vcc_1
