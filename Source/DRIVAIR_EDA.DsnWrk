@@ -3,4 +3,10 @@ Version=1.0
 [Project1]
 ProjectPath=DRIVAIR_EDA.PrjPCB
 [Project2]
-ProjectPath=UL_Import\UL_Import.PrjScr
+ProjectPath=Backbone_PCB\Backbone.PrjPCB
+[Project3]
+ProjectPath=History\Host.PrjPCB
+[Project4]
+ProjectPath=Power_PCB\Power_PCB.PrjPCB
+[Project5]
+ProjectPath=Backbone_PCB\test_5v.PrjPCB
