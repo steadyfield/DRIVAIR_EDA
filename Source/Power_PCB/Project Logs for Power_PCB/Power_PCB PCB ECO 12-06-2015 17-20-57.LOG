@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=VCC Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=VCC Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=VCC Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=VCC Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=VCC Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=VCC Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=VCC Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=VCC Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=VCC Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VCC Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=VCC Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=VCC Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=VCC Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=VCC Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=VCC Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=VCC Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=VCC Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Added Component: Designator=CU1(CAPC151137X70N)
+Added Component: Designator=CU2(CAPC151137X70N)
+Added Component: Designator=CU3(CAPC151137X70N)
+Added Component: Designator=CU4(CAPC151137X70N)
+Added Component: Designator=CU5(CAPC151137X70N)
+Added Component: Designator=CU6(CAPC151137X70N)
+Added Component: Designator=CV1(CAPC151137X70N)
+Added Component: Designator=CV2(CAPC151137X70N)
+Added Component: Designator=CV3(CAPC151137X70N)
+Added Component: Designator=CV5(CAPC151137X70N)
+Added Component: Designator=CV6(CAPC151137X70N)
+Added Component: Designator=CV7(CAPC151137X70N)
+Added Component: Designator=CW1(CAPC151137X70N)
+Added Component: Designator=CW2(CAPC151137X70N)
+Added Component: Designator=CW3(CAPC151137X70N)
+Added Component: Designator=CW4(CAPC151137X70N)
+Added Component: Designator=CW5(CAPC151137X70N)
+Added Component: Designator=CW6(CAPC151137X70N)
+Added Pin To Net: NetName=GND Pin=CU1-1
+Added Pin To Net: NetName=VCC Pin=CU1-2
+Added Pin To Net: NetName=GND Pin=CU2-1
+Added Pin To Net: NetName=VCC Pin=CU2-2
+Added Pin To Net: NetName=GND Pin=CU3-1
+Added Pin To Net: NetName=VCC Pin=CU3-2
+Added Pin To Net: NetName=GND Pin=CU4-1
+Added Pin To Net: NetName=VCC Pin=CU4-2
+Added Pin To Net: NetName=GND Pin=CU5-1
+Added Pin To Net: NetName=VCC Pin=CU5-2
+Added Pin To Net: NetName=GND Pin=CU6-1
+Added Pin To Net: NetName=VCC Pin=CU6-2
+Added Pin To Net: NetName=VCC Pin=CV1-1
+Added Pin To Net: NetName=GND Pin=CV1-2
+Added Pin To Net: NetName=VCC Pin=CV2-1
+Added Pin To Net: NetName=GND Pin=CV2-2
+Added Pin To Net: NetName=VCC Pin=CV3-1
+Added Pin To Net: NetName=GND Pin=CV3-2
+Added Pin To Net: NetName=VCC Pin=CV5-1
+Added Pin To Net: NetName=GND Pin=CV5-2
+Added Pin To Net: NetName=VCC Pin=CV6-1
+Added Pin To Net: NetName=GND Pin=CV6-2
+Added Pin To Net: NetName=VCC Pin=CV7-1
+Added Pin To Net: NetName=GND Pin=CV7-2
+Added Pin To Net: NetName=GND Pin=CW1-1
+Added Pin To Net: NetName=VCC Pin=CW1-2
+Added Pin To Net: NetName=GND Pin=CW2-1
+Added Pin To Net: NetName=VCC Pin=CW2-2
+Added Pin To Net: NetName=GND Pin=CW3-1
+Added Pin To Net: NetName=VCC Pin=CW3-2
+Added Pin To Net: NetName=GND Pin=CW4-1
+Added Pin To Net: NetName=VCC Pin=CW4-2
+Added Pin To Net: NetName=GND Pin=CW5-1
+Added Pin To Net: NetName=VCC Pin=CW5-2
+Added Pin To Net: NetName=GND Pin=CW6-1
+Added Pin To Net: NetName=VCC Pin=CW6-2
+Added Class: Name=Power_PCB
+Added Room: Name=Power_PCB
