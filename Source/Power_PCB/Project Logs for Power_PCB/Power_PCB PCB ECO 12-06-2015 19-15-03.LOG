@@ -1,0 +1,121 @@
+Removed Pin From Net: NetName=U_B Pin=GD1U-4
+Removed Pin From Net: NetName=U_T Pin=GD1U-7
+Removed Pin From Net: NetName=V_B Pin=GD1V-4
+Removed Pin From Net: NetName=V_T Pin=GD1V-7
+Removed Pin From Net: NetName=W_B Pin=GD1W-4
+Removed Pin From Net: NetName=W_T Pin=GD1W-7
+Removed Pin From Net: NetName=U_B Pin=GD2U-4
+Removed Pin From Net: NetName=U_T Pin=GD2U-7
+Removed Pin From Net: NetName=V_B Pin=GD2V-4
+Removed Pin From Net: NetName=V_T Pin=GD2V-7
+Removed Pin From Net: NetName=W_B Pin=GD2W-4
+Removed Pin From Net: NetName=W_T Pin=GD2W-7
+Change Component Designator: OldDesignator=C1 NewDesignator=C_Boot_1U
+Change Component Designator: OldDesignator=C2 NewDesignator=C_1U
+Change Component Designator: OldDesignator=C3 NewDesignator=C_BOOT_2U
+Change Component Designator: OldDesignator=C4 NewDesignator=C_2U
+Change Component Designator: OldDesignator=C5 NewDesignator=C_Boot_1V
+Change Component Designator: OldDesignator=C6 NewDesignator=C_1V
+Change Component Designator: OldDesignator=C7 NewDesignator=C_BOOT_2V
+Change Component Designator: OldDesignator=C8 NewDesignator=C_2V
+Change Component Designator: OldDesignator=C9 NewDesignator=C_Boot_1W
+Change Component Designator: OldDesignator=C10 NewDesignator=C_1W
+Change Component Designator: OldDesignator=C11 NewDesignator=C_Boot_2W
+Change Component Designator: OldDesignator=C12 NewDesignator=C_2W
+Added Component: Designator=R_BOOT_1U(R1608)
+Added Component: Designator=R_BOOT_1V(R1608)
+Added Component: Designator=R_BOOT_1W(R1608)
+Added Component: Designator=R_BOOT_2U(R1608)
+Added Component: Designator=R_BOOT_2V(R1608)
+Added Component: Designator=R_BOOT_2W(R1608)
+Added Pin To Net: NetName=NetC8_1 Pin=C_1U-1
+Added Pin To Net: NetName=NetC8_1 Pin=C_1V-1
+Added Pin To Net: NetName=NetC8_1 Pin=C_1W-1
+Added Pin To Net: NetName=NetC8_1 Pin=C_2U-1
+Added Pin To Net: NetName=NetC8_1 Pin=C_2W-1
+Added Pin To Net: NetName=NetC8_1 Pin=D1-2
+Added Pin To Net: NetName=NetC8_1 Pin=D2-2
+Added Pin To Net: NetName=NetC8_1 Pin=D3-2
+Added Pin To Net: NetName=NetC8_1 Pin=D5-2
+Added Pin To Net: NetName=NetC8_1 Pin=D6-2
+Added Pin To Net: NetName=NetC8_1 Pin=GD1U-5
+Added Pin To Net: NetName=NetC8_1 Pin=GD1V-5
+Added Pin To Net: NetName=NetC8_1 Pin=GD1W-5
+Added Pin To Net: NetName=NetC8_1 Pin=GD2U-5
+Added Pin To Net: NetName=NetC8_1 Pin=GD2W-5
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC_Boot_1U_1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC_BOOT_2U_1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC_Boot_1V_1
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC_BOOT_2V_1
+Change Net Name : Old Net Name=NetC8_1 New Net Name=+12
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC_Boot_1W_1
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC_Boot_2W_1
+Change Net Name : Old Net Name=NetCS1U_1 New Net Name=CS_U
+Change Net Name : Old Net Name=NetCS1V_1 New Net Name=CS_V
+Change Net Name : Old Net Name=NetCS1W_1 New Net Name=CS_W
+Added Pin To Net: NetName=NetC_Boot_1U_2 Pin=C_Boot_1U-2
+Added Pin To Net: NetName=NetC_Boot_1U_2 Pin=GD1U-8
+Added Pin To Net: NetName=NetC_Boot_1U_2 Pin=R_BOOT_1U-2
+Added Net: Name=NetC_Boot_1U_2
+Added Pin To Net: NetName=NetC_Boot_1V_2 Pin=C_Boot_1V-2
+Added Pin To Net: NetName=NetC_Boot_1V_2 Pin=GD1V-8
+Added Pin To Net: NetName=NetC_Boot_1V_2 Pin=R_BOOT_1V-2
+Added Net: Name=NetC_Boot_1V_2
+Added Pin To Net: NetName=NetC_Boot_1W_2 Pin=C_Boot_1W-2
+Added Pin To Net: NetName=NetC_Boot_1W_2 Pin=GD1W-8
+Added Pin To Net: NetName=NetC_Boot_1W_2 Pin=R_BOOT_1W-2
+Added Net: Name=NetC_Boot_1W_2
+Added Pin To Net: NetName=NetC_BOOT_2U_2 Pin=C_BOOT_2U-2
+Added Pin To Net: NetName=NetC_BOOT_2U_2 Pin=GD2U-8
+Added Pin To Net: NetName=NetC_BOOT_2U_2 Pin=R_BOOT_2U-2
+Added Net: Name=NetC_BOOT_2U_2
+Added Pin To Net: NetName=NetC_BOOT_2V_2 Pin=C_BOOT_2V-2
+Added Pin To Net: NetName=NetC_BOOT_2V_2 Pin=GD2V-8
+Added Pin To Net: NetName=NetC_BOOT_2V_2 Pin=R_BOOT_2V-2
+Added Net: Name=NetC_BOOT_2V_2
+Added Pin To Net: NetName=NetC_Boot_2W_2 Pin=C_Boot_2W-2
+Added Pin To Net: NetName=NetC_Boot_2W_2 Pin=GD2W-8
+Added Pin To Net: NetName=NetC_Boot_2W_2 Pin=R_BOOT_2W-2
+Added Net: Name=NetC_Boot_2W_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R_BOOT_1U-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R_BOOT_2U-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R_BOOT_1V-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R_BOOT_2V-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R_BOOT_1W-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R_BOOT_2W-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetGD1U_4 Pin=GD1U-4
+Added Net: Name=NetGD1U_4
+Added Pin To Net: NetName=NetGD1U_7 Pin=GD1U-7
+Added Net: Name=NetGD1U_7
+Added Pin To Net: NetName=NetGD1V_4 Pin=GD1V-4
+Added Net: Name=NetGD1V_4
+Added Pin To Net: NetName=NetGD1V_7 Pin=GD1V-7
+Added Net: Name=NetGD1V_7
+Added Pin To Net: NetName=NetGD1W_4 Pin=GD1W-4
+Added Net: Name=NetGD1W_4
+Added Pin To Net: NetName=NetGD1W_7 Pin=GD1W-7
+Added Net: Name=NetGD1W_7
+Added Pin To Net: NetName=NetGD2U_4 Pin=GD2U-4
+Added Net: Name=NetGD2U_4
+Added Pin To Net: NetName=NetGD2U_7 Pin=GD2U-7
+Added Net: Name=NetGD2U_7
+Added Pin To Net: NetName=NetGD2V_4 Pin=GD2V-4
+Added Net: Name=NetGD2V_4
+Added Pin To Net: NetName=NetGD2V_7 Pin=GD2V-7
+Added Net: Name=NetGD2V_7
+Added Pin To Net: NetName=NetGD2W_4 Pin=GD2W-4
+Added Net: Name=NetGD2W_4
+Added Pin To Net: NetName=NetGD2W_7 Pin=GD2W-7
+Added Net: Name=NetGD2W_7

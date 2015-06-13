@@ -1,0 +1,24 @@
+Added Component: Designator=J1_U(R1608)
+Added Component: Designator=J1_V(R1608)
+Added Component: Designator=J1_W(R1608)
+Added Component: Designator=J3_U(R1608)
+Added Component: Designator=J3_V(R1608)
+Added Component: Designator=J3_W(R1608)
+Added Component: Designator=J4_U(R1608)
+Added Component: Designator=J4_V(R1608)
+Added Component: Designator=J4_W(R1608)
+Added Component: Designator=J_2U(R1608)
+Added Component: Designator=J_2V(R1608)
+Added Component: Designator=J_2W(R1608)
+Added Pin To Net: NetName=U_B Pin=J1_U-2
+Added Pin To Net: NetName=V_B Pin=J1_V-2
+Added Pin To Net: NetName=W_B Pin=J1_W-2
+Added Pin To Net: NetName=U_B Pin=J3_U-2
+Added Pin To Net: NetName=V_B Pin=J3_V-2
+Added Pin To Net: NetName=W_B Pin=J3_W-2
+Added Pin To Net: NetName=NetGD2U_7 Pin=J4_U-2
+Added Pin To Net: NetName=NetGD2V_7 Pin=J4_V-2
+Added Pin To Net: NetName=NetGD2W_7 Pin=J4_W-2
+Added Pin To Net: NetName=NetGD1U_7 Pin=J_2U-2
+Added Pin To Net: NetName=NetGD1V_7 Pin=J_2V-2
+Added Pin To Net: NetName=NetGD1W_7 Pin=J_2W-2
