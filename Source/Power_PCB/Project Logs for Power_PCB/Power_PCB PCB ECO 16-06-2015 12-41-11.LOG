@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=C_1U-2
+Removed Pin From Net: NetName=GND Pin=C_1V-2
+Removed Pin From Net: NetName=GND Pin=C_1W-2
+Removed Pin From Net: NetName=GND Pin=C_2U-2
+Removed Pin From Net: NetName=GND Pin=C_2V-2
+Removed Pin From Net: NetName=GND Pin=C_2W-2
+Removed Pin From Net: NetName=GND Pin=GD1U-3
+Removed Pin From Net: NetName=GND Pin=GD1V-3
+Removed Pin From Net: NetName=GND Pin=GD1W-3
+Removed Pin From Net: NetName=GND Pin=GD2U-3
+Removed Pin From Net: NetName=GND Pin=GD2V-3
+Removed Pin From Net: NetName=GND Pin=GD2W-3
+Removed Pin From Net: NetName=U_B Pin=J1_U-1
+Removed Pin From Net: NetName=V_B Pin=J1_V-1
+Removed Pin From Net: NetName=W_B Pin=J1_W-1
+Removed Pin From Net: NetName=U_B Pin=J3_U-1
+Removed Pin From Net: NetName=V_B Pin=J3_V-1
+Removed Pin From Net: NetName=W_B Pin=J3_W-1
+Removed Pin From Net: NetName=U_T Pin=J4_U-2
+Removed Pin From Net: NetName=V_T Pin=J4_V-2
+Removed Pin From Net: NetName=W_T Pin=J4_W-2
+Removed Pin From Net: NetName=U_T Pin=J_2U-2
+Removed Pin From Net: NetName=V_T Pin=J_2V-2
+Removed Pin From Net: NetName=W_T Pin=J_2W-2
+Change Net Name : Old Net Name=CS_U New Net Name=VIN+U
+Change Net Name : Old Net Name=CS_V New Net Name=VIN+V
+Change Net Name : Old Net Name=CS_W New Net Name=VIN-W
+Change Net Name : Old Net Name=W_OUT New Net Name=VIN+W

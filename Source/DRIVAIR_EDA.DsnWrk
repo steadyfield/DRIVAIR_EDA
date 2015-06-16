@@ -5,8 +5,12 @@ ProjectPath=DRIVAIR_EDA.PrjPCB
 [Project2]
 ProjectPath=Backbone_PCB\Backbone.PrjPCB
 [Project3]
-ProjectPath=History\Host.PrjPCB
+ProjectPath=Power_PCB\Power_PCB.PrjPcb
 [Project4]
-ProjectPath=Power_PCB\Power_PCB.PrjPCB
-[Project5]
 ProjectPath=Backbone_PCB\test_5v.PrjPCB
+[Project5]
+ProjectPath=Tools\UL_Import.PrjScr
+[Project6]
+ProjectPath=..\..\..\..\..\..\UltraLibrarian\Library\Exported\Altium\2015-06-15_20-57-46\2015-06-15_20-57-46.LibPkg
+[Project7]
+ProjectPath=..\..\..\..\..\..\UltraLibrarian\Library\Exported\Altium\2015-06-16_13-13-16\2015-06-16_13-13-16.LibPkg

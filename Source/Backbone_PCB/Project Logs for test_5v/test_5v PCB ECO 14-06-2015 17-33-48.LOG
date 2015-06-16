@@ -1,0 +1,80 @@
+Added Component: Designator=C7_Vcc(0603)
+Added Component: Designator=Cbst(0805)
+Added Component: Designator=Cbyp(1608)
+Added Component: Designator=Ccomp2(0805)
+Added Component: Designator=Ccomp3(0805)
+Added Component: Designator=Ccomp(0805)
+Added Component: Designator=Cin(0805)
+Added Component: Designator=Cout(0603)
+Added Component: Designator=Css(0201)
+Added Component: Designator=L1(SRP6540)
+Added Component: Designator=Q1(TRANS_NexFET_Q3)
+Added Component: Designator=Q2(PG-TSDSON-8)
+Added Component: Designator=Rcomp2(0402)
+Added Component: Designator=Rcomp(0402)
+Added Component: Designator=Rfbb(0402)
+Added Component: Designator=Rfbt(0402)
+Added Component: Designator=Rpgood(0402)
+Added Component: Designator=Rs(0402)
+Added Component: Designator=U1(S-PVSON-N10)
+Added Pin To Net: NetName=NetC7_Vcc_1 Pin=C7_Vcc-1
+Added Pin To Net: NetName=0 Pin=C7_Vcc-2
+Added Pin To Net: NetName=NetCbst_1 Pin=Cbst-1
+Added Pin To Net: NetName=NetCbst_2 Pin=Cbst-2
+Added Pin To Net: NetName=NetCbyp_1 Pin=Cbyp-1
+Added Pin To Net: NetName=0 Pin=Cbyp-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Ccomp2-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp2-2
+Added Pin To Net: NetName=NetCcomp3_1 Pin=Ccomp3-1
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Ccomp3-2
+Added Pin To Net: NetName=NetCcomp_1 Pin=Ccomp-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp-2
+Added Pin To Net: NetName=NetC7_Vcc_1 Pin=Cin-1
+Added Pin To Net: NetName=0 Pin=Cin-2
+Added Pin To Net: NetName=NetCout_1 Pin=Cout-1
+Added Pin To Net: NetName=0 Pin=Cout-2
+Added Pin To Net: NetName=NetCss_1 Pin=Css-1
+Added Pin To Net: NetName=0 Pin=Css-2
+Added Pin To Net: NetName=NetCbst_2 Pin=L1-1
+Added Pin To Net: NetName=NetCout_1 Pin=L1-2
+Added Pin To Net: NetName=NetCbst_2 Pin=Q1-1
+Added Pin To Net: NetName=NetCbst_2 Pin=Q1-2
+Added Pin To Net: NetName=NetCbst_2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetC7_Vcc_1 Pin=Q1-5
+Added Pin To Net: NetName=NetC7_Vcc_1 Pin=Q1-6
+Added Pin To Net: NetName=NetC7_Vcc_1 Pin=Q1-7
+Added Pin To Net: NetName=NetC7_Vcc_1 Pin=Q1-8
+Added Pin To Net: NetName=NetC7_Vcc_1 Pin=Q1-9
+Added Pin To Net: NetName=0 Pin=Q2-1
+Added Pin To Net: NetName=0 Pin=Q2-2
+Added Pin To Net: NetName=0 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_4 Pin=Q2-4
+Added Pin To Net: NetName=NetCbst_2 Pin=Q2-5
+Added Pin To Net: NetName=NetCbst_2 Pin=Q2-6
+Added Pin To Net: NetName=NetCbst_2 Pin=Q2-7
+Added Pin To Net: NetName=NetCbst_2 Pin=Q2-8
+Added Pin To Net: NetName=NetCbst_2 Pin=Q2-9
+Added Pin To Net: NetName=NetCout_1 Pin=Rcomp2-1
+Added Pin To Net: NetName=NetCcomp3_1 Pin=Rcomp2-2
+Added Pin To Net: NetName=NetCcomp_1 Pin=Rcomp-1
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Rcomp-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Rfbb-1
+Added Pin To Net: NetName=0 Pin=Rfbb-2
+Added Pin To Net: NetName=NetCout_1 Pin=Rfbt-1
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Rfbt-2
+Added Pin To Net: NetName=NetCbyp_1 Pin=Rpgood-1
+Added Pin To Net: NetName=NetRpgood_2 Pin=Rpgood-2
+Added Pin To Net: NetName=NetQ2_4 Pin=Rs-1
+Added Pin To Net: NetName=0 Pin=Rs-2
+Added Pin To Net: NetName=NetC7_Vcc_1 Pin=U1-1
+Added Pin To Net: NetName=NetCss_1 Pin=U1-2
+Added Pin To Net: NetName=NetRpgood_2 Pin=U1-3
+Added Pin To Net: NetName=NetCcomp2_2 Pin=U1-4
+Added Pin To Net: NetName=NetCcomp2_1 Pin=U1-5
+Added Pin To Net: NetName=NetCbst_1 Pin=U1-6
+Added Pin To Net: NetName=NetQ1_4 Pin=U1-7
+Added Pin To Net: NetName=NetCbst_2 Pin=U1-8
+Added Pin To Net: NetName=NetQ2_4 Pin=U1-9
+Added Pin To Net: NetName=NetCbyp_1 Pin=U1-10
+Added Pin To Net: NetName=0 Pin=U1-11
