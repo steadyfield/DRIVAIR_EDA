@@ -122,6 +122,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TQJIEODV
 
 [Document6]
+DocumentPath=[02]_100V_to_12V.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ADRVYPVU
+
+[Document7]
 DocumentPath=Host.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +155,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXBMGRLD
 
-[Document7]
+[Document8]
+DocumentPath=[02]_100V_to_12V.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JOHGWSRM
+
+[Document9]
 DocumentPath=Backbone_5V_DCDC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEFPRXRJ
 
-[Document8]
+[Document10]
 DocumentPath=Backbone.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,24 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXFUYGQS
 
-[Document9]
-DocumentPath=Schlib1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YAVQOPYO
-
-[Document10]
+[Document11]
 DocumentPath=[01]_Backbone.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDVOEFVL
 
-[Document11]
+[Document12]
 DocumentPath=[02]_12V_DCDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGFBFXPR
 
-[Document12]
+[Document13]
 DocumentPath=[03]_5V_DCDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIWNKELY
 
-[Document13]
+[Document14]
 DocumentPath=[04]_Gate_Drivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNUMLIUY
 
-[Document14]
+[Document15]
 DocumentPath=[05]_Voltage_Sense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLIIILBC
 
-[Document15]
+[Document16]
 DocumentPath=[06]_Current_Sense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHUVBFCG
 
-[Document16]
+[Document17]
 DocumentPath=[07]_Host.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAOXTIXN
 
-[Document17]
+[Document18]
 DocumentPath=[08]_Bluetooth.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNXXGHJO
 
-[Document18]
+[Document19]
 DocumentPath=[09]_Inverter_Headers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,8 +359,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBSFMSGK
 
-[Document19]
-DocumentPath=[10]_FTDI+3V3_DCDC.SchDoc
+[Document20]
+DocumentPath=[10]_FTDI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -358,6 +375,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRVPJGEX
+
+[Document21]
+DocumentPath=[11]_3V3_DCDC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QDBPSWGO
+
+[Document22]
+DocumentPath=[02]_100V_to_12V.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LPLQNRKH
 
 [Configuration1]
 Name=Default Configuration
@@ -1758,142 +1809,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=
-ParameterUpdate0=1
-ParameterName1=>NAME
-ParameterUpdate1=1
-ParameterName2=>VALUE
-ParameterUpdate2=1
-ParameterName3=1
-ParameterUpdate3=1
-ParameterName4=2
-ParameterUpdate4=1
-ParameterName5=3
-ParameterUpdate5=1
-ParameterName6=Accuracy
-ParameterUpdate6=1
-ParameterName7=ADC
-ParameterUpdate7=1
-ParameterName8=Cap
-ParameterUpdate8=1
-ParameterName9=Category
-ParameterUpdate9=1
-ParameterName10=CLOCK
-ParameterUpdate10=1
-ParameterName11=Comment
-ParameterUpdate11=1
-ParameterName12=Component Kind
-ParameterUpdate12=1
-ParameterName13=Current - Output
-ParameterUpdate13=1
-ParameterName14=DataSheet
-ParameterUpdate14=1
-ParameterName15=Datasheet URL
-ParameterUpdate15=1
-ParameterName16=Description
-ParameterUpdate16=1
-ParameterName17=DigiKeyPartNumber
-ParameterUpdate17=1
-ParameterName18=ESR
-ParameterUpdate18=1
-ParameterName19=Function
-ParameterUpdate19=1
-ParameterName20=IdsMax
-ParameterUpdate20=1
-ParameterName21=IRMS
-ParameterUpdate21=1
-ParameterName22=JTAG
-ParameterUpdate22=1
-ParameterName23=LatestRevisionDate
-ParameterUpdate23=1
-ParameterName24=LatestRevisionNote
-ParameterUpdate24=1
-ParameterName25=Library Reference
-ParameterUpdate25=1
-ParameterName26=Manufacturer
-ParameterUpdate26=1
-ParameterName27=Manufacturer_Name
-ParameterUpdate27=1
-ParameterName28=Manufacturer_Part_Number
-ParameterUpdate28=1
-ParameterName29=MF
-ParameterUpdate29=1
-ParameterName30=Mounting Type
-ParameterUpdate30=1
-ParameterName31=MPN
-ParameterUpdate31=1
-ParameterName32=NAME
-ParameterUpdate32=1
-ParameterName33=OC_FARNELL
-ParameterUpdate33=1
-ParameterName34=OC_NEWARK
-ParameterUpdate34=1
-ParameterName35=ON
-ParameterUpdate35=1
-ParameterName36=Operating Temperature
-ParameterUpdate36=1
-ParameterName37=Package / Case
-ParameterUpdate37=1
-ParameterName38=PACKAGE_DESIGNATOR
-ParameterUpdate38=1
-ParameterName39=PackageDescription
-ParameterUpdate39=1
-ParameterName40=PackageReference
-ParameterUpdate40=1
-ParameterName41=Packaging
-ParameterUpdate41=1
-ParameterName42=Published
-ParameterUpdate42=1
-ParameterName43=Publisher
-ParameterUpdate43=1
-ParameterName44=QgTyp
-ParameterUpdate44=1
-ParameterName45=Quantity
-ParameterUpdate45=1
-ParameterName46=Quantity_Available
-ParameterUpdate46=1
-ParameterName47=Rdsonat10V
-ParameterUpdate47=1
-ParameterName48=RefDes
-ParameterUpdate48=1
-ParameterName49=Sensing Method
-ParameterUpdate49=1
-ParameterName50=Supplier 1
-ParameterUpdate50=1
-ParameterName51=Supplier 2
-ParameterUpdate51=1
-ParameterName52=Supplier 3
-ParameterUpdate52=1
-ParameterName53=Supplier 4
-ParameterUpdate53=1
-ParameterName54=Supplier 5
-ParameterUpdate54=1
-ParameterName55=Supplier Device Package
-ParameterUpdate55=1
-ParameterName56=Supplier Part Number 1
-ParameterUpdate56=1
-ParameterName57=Supplier Part Number 2
-ParameterUpdate57=1
-ParameterName58=Supplier Part Number 3
-ParameterUpdate58=1
-ParameterName59=Supplier Part Number 4
-ParameterUpdate59=1
-ParameterName60=Supplier Part Number 5
-ParameterUpdate60=1
-ParameterName61=TP_SIGNAL_NAME
-ParameterUpdate61=1
-ParameterName62=Type
-ParameterUpdate62=1
-ParameterName63=Value
-ParameterUpdate63=1
-ParameterName64=VDC
-ParameterUpdate64=1
-ParameterName65=VdsMax
-ParameterUpdate65=1
-ParameterName66=Vendor
-ParameterUpdate66=1
-ParameterName67=Voltage - Input
-ParameterUpdate67=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
