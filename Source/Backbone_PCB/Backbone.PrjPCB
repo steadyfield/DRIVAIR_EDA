@@ -71,23 +71,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RHTFOAVC
 
 [Document3]
-DocumentPath=Backbone_12V_DCDC.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RDWFLDLB
-
-[Document4]
 DocumentPath=Backbone_5V_DCDC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSTVVKRP
 
-[Document5]
+[Document4]
 DocumentPath=Backbone.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,41 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBELEGDB
 
-[Document6]
-DocumentPath=Backbone_12V_DCDC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TQJIEODV
-
-[Document7]
-DocumentPath=[02]_100V_to_12V.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ADRVYPVU
-
-[Document8]
+[Document5]
 DocumentPath=[02]_90Vto12V.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FLMJDDTO
 
-[Document9]
+[Document6]
 DocumentPath=Host.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,24 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXBMGRLD
 
-[Document10]
-DocumentPath=[02]_100V_to_12V.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JOHGWSRM
-
-[Document11]
+[Document7]
 DocumentPath=Backbone_5V_DCDC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEFPRXRJ
 
-[Document12]
+[Document8]
 DocumentPath=Backbone.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXFUYGQS
 
-[Document13]
+[Document9]
 DocumentPath=[01]_Backbone.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDVOEFVL
 
-[Document14]
+[Document10]
 DocumentPath=[03]_5V_DCDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIWNKELY
 
-[Document15]
+[Document11]
 DocumentPath=[04]_Gate_Drivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNUMLIUY
 
-[Document16]
+[Document12]
 DocumentPath=[05]_Voltage_Sense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLIIILBC
 
-[Document17]
+[Document13]
 DocumentPath=[06]_Current_Sense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHUVBFCG
 
-[Document18]
+[Document14]
 DocumentPath=[07]_Host.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAOXTIXN
 
-[Document19]
+[Document15]
 DocumentPath=[08]_Bluetooth.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNXXGHJO
 
-[Document20]
+[Document16]
 DocumentPath=[02]_90Vto12V.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXSHUGSU
 
-[Document21]
+[Document17]
 DocumentPath=[09]_Inverter_Headers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBSFMSGK
 
-[Document22]
+[Document18]
 DocumentPath=[10]_FTDI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -410,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRVPJGEX
 
-[Document23]
+[Document19]
 DocumentPath=[11]_3V3_DCDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -427,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDBPSWGO
 
-[Document24]
+[Document20]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
