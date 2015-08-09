@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=CURRENT_SHUNT+U Pin=CS_Monitor_U-2
+Removed Pin From Net: NetName=GND Pin=CS_Monitor_U-4
+Removed Pin From Net: NetName=CURRENT_SENSE_PHASE_U Pin=CS_Monitor_U-6
+Removed Pin From Net: NetName=CURRENT_SHUNT+V Pin=CS_Monitor_V-2
+Removed Pin From Net: NetName=GND Pin=CS_Monitor_V-4
+Removed Pin From Net: NetName=CURRENT_SENSE_PHASE_V Pin=CS_Monitor_V-6
+Removed Pin From Net: NetName=CURRENT_SHUNT+W Pin=CS_Monitor_W-2
+Removed Pin From Net: NetName=GND Pin=CS_Monitor_W-4
+Removed Pin From Net: NetName=CURRENT_SENSE_PHASE_W Pin=CS_Monitor_W-6
+Removed Pin From Net: NetName=GND Pin=RL_U-1
+Removed Pin From Net: NetName=CURRENT_SENSE_PHASE_U Pin=RL_U-2
+Removed Pin From Net: NetName=GND Pin=RL_V-1
+Removed Pin From Net: NetName=CURRENT_SENSE_PHASE_V Pin=RL_V-2
+Removed Pin From Net: NetName=GND Pin=RL_W-1
+Removed Pin From Net: NetName=CURRENT_SENSE_PHASE_W Pin=RL_W-2
+Removed Pin From Net: NetName=GND Pin=Ros_U-2
+Removed Pin From Net: NetName=GND Pin=Ros_V-2
+Removed Pin From Net: NetName=GND Pin=Ros_W-2
+Change Component DesignItemId : Designator=CS_Monitor_U Old DesignItemId=INA170EA/250G4 New DesignItemId=INA282_DGK_8
+Change Component DesignItemId : Designator=CS_Monitor_V Old DesignItemId=INA170EA/250G4 New DesignItemId=INA282_DGK_8
+Change Component DesignItemId : Designator=CS_Monitor_W Old DesignItemId=INA170EA/250G4 New DesignItemId=INA282_DGK_8
+Change Component Footprint: Designator=J_HIN_1U Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_HIN_1V Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_HIN_1W Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_HIN_2U Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_HIN_2V Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_HIN_2W Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_LIN_1U Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_LIN_1V Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_LIN_1W Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_LIN_2U Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_LIN_2V Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=J_LIN_2W Old Footprint=1206 New Footprint=0805
+Change Component Comment : Designator=CS_Monitor_U Old Comment=INA170EA/250G4 New Comment=INA282_DGK_8
+Change Component Comment : Designator=CS_Monitor_V Old Comment=INA170EA/250G4 New Comment=INA282_DGK_8
+Change Component Comment : Designator=CS_Monitor_W Old Comment=INA170EA/250G4 New Comment=INA282_DGK_8
+Change Component Library : Designator=CS_Monitor_U Old Library=Backbone.SchLib New Library=Power_PCB.SchLib
+Change Component Library : Designator=CS_Monitor_V Old Library=Backbone.SchLib New Library=Power_PCB.SchLib
+Change Component Library : Designator=CS_Monitor_W Old Library=Backbone.SchLib New Library=Power_PCB.SchLib
+Added Component: Designator=C_In_CSM_U(0603)
+Added Component: Designator=C_In_CSM_V(0603)
+Added Component: Designator=C_In_CSM_W(0603)
+Added Pin To Net: NetName=+3V3 Pin=C_In_CSM_U-1
+Added Pin To Net: NetName=GND Pin=C_In_CSM_U-2
+Added Pin To Net: NetName=+3V3 Pin=C_In_CSM_V-1
+Added Pin To Net: NetName=GND Pin=C_In_CSM_V-2
+Added Pin To Net: NetName=GND Pin=C_In_CSM_W-2
+Added Pin To Net: NetName=GND Pin=CS_Monitor_U-2
+Added Pin To Net: NetName=CURRENT_SENSE_PHASE_U Pin=CS_Monitor_U-5
+Added Pin To Net: NetName=+3V3 Pin=CS_Monitor_U-6
+Added Pin To Net: NetName=GND Pin=CS_Monitor_U-7
+Added Pin To Net: NetName=CURRENT_SHUNT+U Pin=CS_Monitor_U-8
+Added Pin To Net: NetName=GND Pin=CS_Monitor_V-2
+Added Pin To Net: NetName=CURRENT_SENSE_PHASE_V Pin=CS_Monitor_V-5
+Added Pin To Net: NetName=+3V3 Pin=CS_Monitor_V-6
+Added Pin To Net: NetName=GND Pin=CS_Monitor_V-7
+Added Pin To Net: NetName=CURRENT_SHUNT+V Pin=CS_Monitor_V-8
+Added Pin To Net: NetName=GND Pin=CS_Monitor_W-2
+Added Pin To Net: NetName=CURRENT_SENSE_PHASE_W Pin=CS_Monitor_W-5
+Added Pin To Net: NetName=+3V3 Pin=CS_Monitor_W-6
+Added Pin To Net: NetName=GND Pin=CS_Monitor_W-7
+Added Pin To Net: NetName=CURRENT_SHUNT+W Pin=CS_Monitor_W-8
