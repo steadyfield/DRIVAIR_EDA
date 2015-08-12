@@ -1,0 +1,3 @@
+Change Physical Footprint: Designator=U_Connector Old Footprint=Gull-wing-10pin New Footprint=Gull-wing-10pin
+Change Physical Footprint: Designator=V_Connector Old Footprint=Gull-wing-10pin New Footprint=Gull-wing-10pin
+Change Physical Footprint: Designator=W_POWER Old Footprint=HIGH_CURRENT_CONN New Footprint=HIGH_CURRENT_CONN

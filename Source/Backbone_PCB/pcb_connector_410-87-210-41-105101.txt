@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05052011-075489";"";
+"REFERENCE";"410-87-210-41-105101";"";
+"TraceParts.PartTitle";"SMD socket connector 2.54 mm, double row, perpendicular mount with gull-wing terminations - Mating pin Ø 0.47 mm";"";
+"TraceParts.InstanceId";"10-05052011-075489EMTLAYX0LJCRXUNAGTCDPKX0J";"";
+"DESIGN";"SMD socket connector 2.54 mm, double row, perpendicular mount with gull-wing terminations, Mating pin Ø 0.47 mm, 10 contacts";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"preci-dip";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"PRECIDIP:/F_PRECIDIP/PRECIDIP.020/PRECIDIP.020.060/10-05052011-075489";"";
