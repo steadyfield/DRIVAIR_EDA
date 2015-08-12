@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05052011-079052";"";
+"REFERENCE";"450-80-210-00-106101";"";
+"TraceParts.PartTitle";"SMD pin connector 2.54 mm, double row, perpendicular mount with gull-wing terminations - Connecting pin Ø 0.47 mm";"";
+"TraceParts.InstanceId";"10-05052011-079052EMTLAYX0LJCRXUNAGTCDPKX0J";"";
+"DESIGN";"SMD pin connector 2.54 mm, double row, perpendicular mount with gull-wing terminations, Connecting pin Ø 0.47 mm, 10 contacts";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"preci-dip";"";
+"TraceParts.PartVersion";"1.1.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"PRECIDIP:/F_PRECIDIP/PRECIDIP.020/PRECIDIP.020.010/10-05052011-079052";"";

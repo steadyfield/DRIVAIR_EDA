@@ -1,0 +1,208 @@
+Removed Pin From Net: NetName=GND Pin=Cbyp_5-2
+Removed Pin From Net: NetName=GND Pin=Css_5-2
+Removed Pin From Net: NetName=GND Pin=TP20-TP
+Removed Pin From Net: NetName=GND Pin=TP21-TP
+Removed Pin From Net: NetName=GND Pin=TP22-TP
+Removed Pin From Net: NetName=GND Pin=TP23-TP
+Removed Pin From Net: NetName=GND Pin=TP24-TP
+Removed Pin From Net: NetName=GPIO42 Pin=U1-1
+Removed Pin From Net: NetName=GPIO23 Pin=U1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=VDDIO Pin=U1-5
+Removed Pin From Net: NetName=GPIO20 Pin=U1-6
+Removed Pin From Net: NetName=GPIO21 Pin=U1-7
+Removed Pin From Net: NetName=GPIO43 Pin=U1-8
+Removed Pin From Net: NetName=GPIO4 Pin=U1-9
+Removed Pin From Net: NetName=GPIO5 Pin=U1-10
+Removed Pin From Net: NetName=VDDIO Pin=U1-13
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U1-15
+Removed Pin From Net: NetName=VDDA Pin=U1-25
+Removed Pin From Net: NetName=GND Pin=U1-26
+Removed Pin From Net: NetName=GND Pin=U1-36
+Removed Pin From Net: NetName=NetC22_1 Pin=U1-37
+Removed Pin From Net: NetName=VDDIO Pin=U1-38
+Removed Pin From Net: NetName=GPIO25 Pin=U1-39
+Removed Pin From Net: NetName=GPIO31 Pin=U1-40
+Removed Pin From Net: NetName=GPIO30 Pin=U1-41
+Removed Pin From Net: NetName=GPIO50 Pin=U1-42
+Removed Pin From Net: NetName=GPIO29 Pin=U1-43
+Removed Pin From Net: NetName=GPIO12 Pin=U1-44
+Removed Pin From Net: NetName=GND Pin=U1-47
+Removed Pin From Net: NetName=GPIO51 Pin=U1-48
+Removed Pin From Net: NetName=GPIO9 Pin=U1-49
+Removed Pin From Net: NetName=GPIO28 Pin=U1-50
+Removed Pin From Net: NetName=GPIO17 Pin=U1-52
+Removed Pin From Net: NetName=GPIO52 Pin=U1-53
+Removed Pin From Net: NetName=GPIO8 Pin=U1-54
+Removed Pin From Net: NetName=GPIO16 Pin=U1-55
+Removed Pin From Net: NetName=GPIO44 Pin=U1-56
+Removed Pin From Net: NetName=GPIO7 Pin=U1-57
+Removed Pin From Net: NetName=GPIO6 Pin=U1-58
+Removed Pin From Net: NetName=VDDIO Pin=U1-61
+Removed Pin From Net: NetName=GND Pin=U1-62
+Removed Pin From Net: NetName=NetC23_1 Pin=U1-63
+Removed Pin From Net: NetName=GPIO53 Pin=U1-65
+Removed Pin From Net: NetName=GPIO39 Pin=U1-66
+Removed Pin From Net: NetName=GPIO34 Pin=U1-68
+Removed Pin From Net: NetName=GPIO54 Pin=U1-69
+Removed Pin From Net: NetName=GPIO11 Pin=U1-73
+Removed Pin From Net: NetName=GPIO10 Pin=U1-74
+Removed Pin From Net: NetName=GPIO55 Pin=U1-75
+Removed Pin From Net: NetName=GPIO41 Pin=U1-76
+Removed Pin From Net: NetName=GPIO27 Pin=U1-77
+Removed Pin From Net: NetName=GPIO26 Pin=U1-78
+Removed Pin From Net: NetName=VDDIO Pin=U1-79
+Removed Pin From Net: NetName=GND Pin=U1-80
+Removed Pin From Net: NetName=NetC5_1 Pin=U1-81
+Removed Pin From Net: NetName=GPIO40 Pin=U1-82
+Removed Pin From Net: NetName=GPIO3 Pin=U1-83
+Removed Pin From Net: NetName=GPIO2 Pin=U1-84
+Removed Pin From Net: NetName=GPIO56 Pin=U1-85
+Removed Pin From Net: NetName=GPIO1 Pin=U1-86
+Removed Pin From Net: NetName=GPIO0 Pin=U1-87
+Removed Pin From Net: NetName=GPIO15 Pin=U1-88
+Removed Pin From Net: NetName=GPIO57 Pin=U1-89
+Removed Pin From Net: NetName=NetC6_1 Pin=U1-91
+Removed Pin From Net: NetName=GND Pin=U1-92
+Removed Pin From Net: NetName=VDDIO Pin=U1-93
+Removed Pin From Net: NetName=GPIO58 Pin=U1-94
+Removed Pin From Net: NetName=GPIO13 Pin=U1-95
+Removed Pin From Net: NetName=GPIO14 Pin=U1-96
+Removed Pin From Net: NetName=GPIO24 Pin=U1-97
+Removed Pin From Net: NetName=GPIO22 Pin=U1-98
+Removed Pin From Net: NetName=GPIO32 Pin=U1-99
+Removed Pin From Net: NetName=GPIO33 Pin=U1-100
+Removed Pin From Net: NetName=GPIO28 Pin=U5-11
+Removed Pin From Net: NetName=GPIO29 Pin=U7-4
+Removed Pin From Net: NetName=BATTERY+ Pin=U_Connector-1
+Removed Pin From Net: NetName=BATTERY+ Pin=U_Connector-2
+Removed Pin From Net: NetName=BATTERY+ Pin=U_Connector-3
+Removed Pin From Net: NetName=GND Pin=U_Connector-6
+Removed Pin From Net: NetName=GND Pin=U_Connector-7
+Removed Pin From Net: NetName=GND Pin=U_Connector-8
+Removed Pin From Net: NetName=BATTERY+ Pin=V_Connector-1
+Removed Pin From Net: NetName=BATTERY+ Pin=V_Connector-2
+Removed Pin From Net: NetName=BATTERY+ Pin=V_Connector-3
+Removed Pin From Net: NetName=GND Pin=V_Connector-8
+Removed Pin From Net: NetName=BATTERY+ Pin=W_Connector-1
+Removed Pin From Net: NetName=BATTERY+ Pin=W_Connector-2
+Removed Pin From Net: NetName=BATTERY+ Pin=W_Connector-3
+Removed Pin From Net: NetName=GND Pin=W_Connector-6
+Removed Pin From Net: NetName=GND Pin=W_Connector-7
+Removed Pin From Net: NetName=GND Pin=W_Connector-8
+Removed Member From Class: ClassName=5V_DCDC Member=Ccomp2
+Removed Member From Class: ClassName=HOST Member=TP20
+Removed Member From Class: ClassName=HOST Member=TP21
+Removed Member From Class: ClassName=HOST Member=TP22
+Removed Member From Class: ClassName=HOST Member=TP23
+Removed Member From Class: ClassName=HOST Member=TP24
+Removed Member From Class: ClassName=HOST Member=U1
+Change Component Footprint: Designator=C12V_1 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_2 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_3 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_4 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_5 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_6 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_7 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_8 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_9 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_10 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_11 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_12 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Footprint: Designator=C12V_13 Old Footprint=1210-Cap New Footprint=SPARKFUN_1210
+Change Component Comment : Designator=U_Connector Old Comment=2x5_Pin_Connector New Comment=Phase_U_Connector
+Change Component Comment : Designator=V_Connector Old Comment=2x5_Pin_Connector New Comment=Phase_V_Connector
+Change Component Comment : Designator=W_Connector Old Comment=2x5_Pin_Connector New Comment=Phase_W_Connector
+Change Component Designator: OldDesignator=Ccomp2 NewDesignator=Ccomp2_5
+Added Component: Designator=Bluetooth(A20737x)
+Added Pin To Net: NetName=GND Pin=Bluetooth-1
+Added Pin To Net: NetName=NetBluetooth_2 Pin=Bluetooth-2
+Added Pin To Net: NetName=GND Pin=Bluetooth-3
+Added Pin To Net: NetName=NetBluetooth_4 Pin=Bluetooth-4
+Added Pin To Net: NetName=NetBluetooth_5 Pin=Bluetooth-5
+Added Pin To Net: NetName=GND Pin=Bluetooth-6
+Added Pin To Net: NetName=NetBluetooth_7 Pin=Bluetooth-7
+Added Pin To Net: NetName=NetBluetooth_8 Pin=Bluetooth-8
+Added Pin To Net: NetName=GND Pin=Bluetooth-11
+Added Pin To Net: NetName=NetBluetooth_12 Pin=Bluetooth-12
+Added Pin To Net: NetName=NetBluetooth_13 Pin=Bluetooth-13
+Added Pin To Net: NetName=NetBluetooth_14 Pin=Bluetooth-14
+Added Pin To Net: NetName=NetBluetooth_15 Pin=Bluetooth-15
+Added Pin To Net: NetName=NetBluetooth_16 Pin=Bluetooth-16
+Added Pin To Net: NetName=NetBluetooth_17 Pin=Bluetooth-17
+Added Pin To Net: NetName=NetBluetooth_18 Pin=Bluetooth-18
+Added Pin To Net: NetName=NetBluetooth_19 Pin=Bluetooth-19
+Added Pin To Net: NetName=NetBluetooth_20 Pin=Bluetooth-20
+Added Pin To Net: NetName=NetBluetooth_21 Pin=Bluetooth-21
+Added Pin To Net: NetName=NetBluetooth_22 Pin=Bluetooth-22
+Added Pin To Net: NetName=NetBluetooth_23 Pin=Bluetooth-23
+Added Pin To Net: NetName=NetBluetooth_24 Pin=Bluetooth-24
+Added Pin To Net: NetName=NetBluetooth_25 Pin=Bluetooth-25
+Added Pin To Net: NetName=NetBluetooth_26 Pin=Bluetooth-26
+Added Pin To Net: NetName=+3V3 Pin=Bluetooth-27
+Added Pin To Net: NetName=NetBluetooth_28 Pin=Bluetooth-28
+Added Pin To Net: NetName=NetBluetooth_28 Pin=Bluetooth-29
+Added Pin To Net: NetName=GND Pin=Bluetooth-30
+Added Pin To Net: NetName=0 Pin=Cbyp_5-2
+Added Pin To Net: NetName=0 Pin=Css_5-2
+Added Pin To Net: NetName=+3V3 Pin=U_Connector-1
+Added Pin To Net: NetName=GPIO0 Pin=U_Connector-2
+Added Pin To Net: NetName=GPIO1 Pin=U_Connector-3
+Added Pin To Net: NetName=+12V Pin=U_Connector-5
+Added Pin To Net: NetName=ADCINA0 Pin=U_Connector-6
+Added Pin To Net: NetName=GPIO1 Pin=U_Connector-7
+Added Pin To Net: NetName=GPIO0 Pin=U_Connector-8
+Added Pin To Net: NetName=GND Pin=U_Connector-9
+Added Pin To Net: NetName=GND Pin=U_Connector-10
+Added Pin To Net: NetName=+12V Pin=V_Connector-1
+Added Pin To Net: NetName=GPIO3 Pin=V_Connector-3
+Added Pin To Net: NetName=GPIO3 Pin=V_Connector-4
+Added Pin To Net: NetName=+3V3 Pin=V_Connector-5
+Added Pin To Net: NetName=GPIO2 Pin=V_Connector-8
+Added Pin To Net: NetName=GPIO2 Pin=V_Connector-9
+Added Pin To Net: NetName=ADCINB0 Pin=V_Connector-10
+Added Pin To Net: NetName=+3V3 Pin=W_Connector-1
+Added Pin To Net: NetName=GPIO4 Pin=W_Connector-2
+Added Pin To Net: NetName=GPIO5 Pin=W_Connector-3
+Added Pin To Net: NetName=+12V Pin=W_Connector-5
+Added Pin To Net: NetName=ADCINA1 Pin=W_Connector-6
+Added Pin To Net: NetName=GPIO5 Pin=W_Connector-7
+Added Pin To Net: NetName=GPIO4 Pin=W_Connector-8
+Added Pin To Net: NetName=GND Pin=W_Connector-9
+Added Pin To Net: NetName=GND Pin=W_Connector-10
+Change Net Name : Old Net Name=JTAG_TRST_IN New Net Name=JTAG_TRST_OUT
+Change Net Name : Old Net Name=TDO_IN New Net Name=TDO_OUT
+Added Net: Name=JTAG_TRST_IN
+Added Net: Name=NetTMS320F28069_24
+Added Net: Name=NetTMS320F28069_45
+Added Net: Name=NetTMS320F28069_59
+Added Net: Name=NetTMS320F28069_60
+Added Pin To Net: NetName=PHASE_U Pin=U_Connector-4
+Added Pin To Net: NetName=PHASE_U Pin=U_DiV_T-1
+Added Net: Name=PHASE_U
+Added Pin To Net: NetName=PHASE_V Pin=V_Connector-2
+Added Pin To Net: NetName=PHASE_V Pin=V_DiV_T-1
+Added Net: Name=PHASE_V
+Added Pin To Net: NetName=PHASE_W Pin=W_Connector-4
+Added Pin To Net: NetName=PHASE_W Pin=W_DiV_T-1
+Added Net: Name=PHASE_W
+Added Pin To Net: NetName=SCI_RX Pin=U5-11
+Added Net: Name=SCI_RX
+Added Pin To Net: NetName=SCI_TX Pin=U7-4
+Added Net: Name=SCI_TX
+Added Pin To Net: NetName=SCL Pin=Bluetooth-10
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=Bluetooth-9
+Added Net: Name=SDA
+Added Net: Name=TDO_IN
+Change Class Name : Old Net Name=HOST New Net Name=[01]_Backbone
+Added Member To Class: ClassName=Bluetooth Member=Component Bluetooth A20737A
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_7 22uF
+Added Member To Class: ClassName=5V_DCDC Member=Component Ccomp2_5 C0805C181K5GACTU
+Added Member To Class: ClassName=[01]_Backbone Member=Component U_Connector Phase_U_Connector
+Added Member To Class: ClassName=[01]_Backbone Member=Component V_Connector Phase_V_Connector
+Added Member To Class: ClassName=[01]_Backbone Member=Component W_Connector Phase_W_Connector
+Change Room Name: Old Name=HOST New Name=[01]_Backbone
+Change Room Scope: Old Scope=InComponentClass('HOST') New Scope=InComponentClass('[01]_Backbone')
