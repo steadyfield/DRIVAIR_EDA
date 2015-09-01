@@ -11,6 +11,6 @@ ProjectPath=Backbone_PCB\test_5v.PrjPCB
 [Project5]
 ProjectPath=Tools\UL_Import.PrjScr
 [Project6]
-ProjectPath=40PinBPTemp_Altium\40Pin_BoosterPack_Template.PrjPCB
-[Project7]
 ProjectPath=..\..\..\..\..\Public\Documents\Altium\AD15\Library\Miscellaneous Connectors\Miscellaneous Connectors.LibPkg
+[Project7]
+ProjectPath=Backbone_PCB\Backbone1\Backbone.LibPkg

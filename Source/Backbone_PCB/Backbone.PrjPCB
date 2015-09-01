@@ -37,7 +37,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=[02]_90Vto12V.PcbLib
+DocumentPath=Backbone.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -51,7 +51,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GNVTKIFE
+DocumentUniqueId=
 
 [Document2]
 DocumentPath=Backbone.SchLib
@@ -122,7 +122,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FLMJDDTO
 
 [Document6]
-DocumentPath=Backbone_5V_DCDC.PcbLib
+DocumentPath=Backbone1\[02]_90Vto12V.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136,10 +136,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AEFPRXRJ
+DocumentUniqueId=WKUTWTTM
 
 [Document7]
-DocumentPath=Backbone.PcbLib
+DocumentPath=Backbone1\PCB1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,7 +153,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FXFUYGQS
+DocumentUniqueId=IYTARXFR
 
 [Document8]
 DocumentPath=[01]_Backbone.SchDoc
@@ -224,23 +224,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QLIIILBC
 
 [Document12]
-DocumentPath=[06]_Current_Sense.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DHUVBFCG
-
-[Document13]
 DocumentPath=[07]_Host.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAOXTIXN
 
-[Document14]
+[Document13]
 DocumentPath=[08]_Bluetooth.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNXXGHJO
 
-[Document15]
+[Document14]
 DocumentPath=[02]_90Vto12V.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXSHUGSU
 
-[Document16]
+[Document15]
 DocumentPath=[09]_Inverter_Headers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBSFMSGK
 
-[Document17]
+[Document16]
 DocumentPath=[10]_FTDI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRVPJGEX
 
-[Document18]
+[Document17]
 DocumentPath=[11]_3V3_DCDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDBPSWGO
 
-[Document19]
+[Document18]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,23 +342,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXDQVFOT
 
-[Document20]
-DocumentPath=Backbone.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -389,7 +355,7 @@ OutputJobsCount=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Canon MP560 series Printer WS
+TargetPrinter=Nitro PDF Creator (Pro 9)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -421,111 +387,11 @@ OutputName6=XSpice Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=CadnetixNetlist
-OutputName7=Cadnetix Netlist
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-OutputType8=CalayNetlist
-OutputName8=Calay Netlist
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-OutputType9=EDIF
-OutputName9=EDIF for PCB
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-OutputType10=EESofNetlist
-OutputName10=EESof Netlist
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=IntergraphNetlist
-OutputName11=Intergraph Netlist
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=MentorBoardStationNetlist
-OutputName12=Mentor BoardStation Netlist
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=MultiWire
-OutputName13=MultiWire
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=OrCadPCB2Netlist
-OutputName14=Orcad/PCB2 Netlist
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=PADSNetlist
-OutputName15=PADS ASCII Netlist
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Pcad
-OutputName16=Pcad for PCB
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=PCADnltNetlist
-OutputName17=PCADnlt Netlist
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=Protel2Netlist
-OutputName18=Protel2 Netlist
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-OutputType19=ProtelNetlist
-OutputName19=Protel
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-OutputType20=RacalNetlist
-OutputName20=Racal Netlist
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-OutputType21=RINFNetlist
-OutputName21=RINF Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SciCardsNetlist
-OutputName22=SciCards Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=TangoNetlist
-OutputName23=Tango Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-OutputType24=TelesisNetlist
-OutputName24=Telesis Netlist
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-OutputType25=WBSENetlistGeneration
-OutputName25=WEBENCH Simulation Engine
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
-OutputType26=WireListNetlist
-OutputName26=WireList Netlist
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon MP560 series Printer WS
+TargetPrinter=Nitro PDF Creator (Pro 9)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -542,11 +408,6 @@ OutputName3=SIMPLIS
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=WBSENetlist
-OutputName4=WEBENCH Simulation Engine
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -655,17 +516,11 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType18=Logic Analyser Print
-OutputName18=Logic Analyser Prints
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Canon MP560 series Printer WS
+TargetPrinter=Nitro PDF Creator (Pro 9)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -687,7 +542,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Canon MP560 series Printer WS
+TargetPrinter=Nitro PDF Creator (Pro 9)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -759,7 +614,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Canon MP560 series Printer WS
+TargetPrinter=Nitro PDF Creator (Pro 9)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -796,7 +651,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Canon MP560 series Printer WS
+TargetPrinter=Nitro PDF Creator (Pro 9)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -976,7 +831,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Canon MP560 series Printer WS
+TargetPrinter=Nitro PDF Creator (Pro 9)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1010,7 +865,7 @@ OutputDefault5=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Canon MP560 series Printer WS
+TargetPrinter=Nitro PDF Creator (Pro 9)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1899,139 +1754,6 @@ ParameterName63=Vendor
 ParameterUpdate63=1
 ParameterName64=Voltage - Input
 ParameterUpdate64=1
-ModelTypeGroup0=
-ModelTypeUpdate0=1
-ModelType0=
-ModelName0=
-ModelUpdate0=1
-ModelTypeGroup1=PCBLIB
-ModelTypeUpdate1=1
-ModelType1=PCBLIB
-ModelName1=0201
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=0402
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=0603
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=0805
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=1206
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=1210-Cap
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=1608
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=2220
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=32005-201
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=A20737x
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=C0402
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=CAPC3216X18N
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=CHIP-LED0603
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=CTS-219-03
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=DGK8
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=FSMJSMA
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=Gull-wing-10pin
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=HC49UP
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=IND_MURATA_6000B
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=INDUCT-3.2*3.2
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=L1812
-ModelUpdate21=1
-ModelType22=PCBLIB
-ModelName22=MXA20A
-ModelUpdate22=1
-ModelType23=PCBLIB
-ModelName23=PG-TDSON-8
-ModelUpdate23=1
-ModelType24=PCBLIB
-ModelName24=PG-TSDSON-8
-ModelUpdate24=1
-ModelType25=PCBLIB
-ModelName25=PM2120
-ModelUpdate25=1
-ModelType26=PCBLIB
-ModelName26=PQFP100
-ModelUpdate26=1
-ModelType27=PCBLIB
-ModelName27=QFN64
-ModelUpdate27=1
-ModelType28=PCBLIB
-ModelName28=R0402
-ModelUpdate28=1
-ModelType29=PCBLIB
-ModelName29=R1608
-ModelUpdate29=1
-ModelType30=PCBLIB
-ModelName30=SMA
-ModelUpdate30=1
-ModelType31=PCBLIB
-ModelName31=SO-16DW
-ModelUpdate31=1
-ModelType32=PCBLIB
-ModelName32=SOD882D
-ModelUpdate32=1
-ModelType33=PCBLIB
-ModelName33=SOIC127P600X265-8N
-ModelUpdate33=1
-ModelType34=PCBLIB
-ModelName34=SOT23-6
-ModelUpdate34=1
-ModelType35=PCBLIB
-ModelName35=SOT23-6-DBV
-ModelUpdate35=1
-ModelType36=PCBLIB
-ModelName36=SPARKFUN_1210
-ModelUpdate36=1
-ModelType37=PCBLIB
-ModelName37=S-PVSON-N10
-ModelUpdate37=1
-ModelType38=PCBLIB
-ModelName38=SRP6540
-ModelUpdate38=1
-ModelType39=PCBLIB
-ModelName39=TESTPAD_B1,27
-ModelUpdate39=1
-ModelType40=PCBLIB
-ModelName40=TI_DSG8
-ModelUpdate40=1
-ModelType41=PCBLIB
-ModelName41=TRANS_NexFET_Q3
-ModelUpdate41=1
-ModelType42=PCBLIB
-ModelName42=TRANS_NexFET_Q5A
-ModelUpdate42=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
