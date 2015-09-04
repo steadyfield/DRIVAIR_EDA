@@ -1,0 +1,247 @@
+Change Component Footprint: Designator=Rsense Old Footprint=PRL1632 New Footprint=1206
+Change Component Comment : Designator=C12V_1 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_2 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_3 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_4 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_5 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_6 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_7 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_8 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_9 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_10 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_11 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_12 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C12V_13 Old Comment=22uF New Comment=10uF
+Change Component Designator: OldDesignator=C43_1 NewDesignator=C43_2
+Change Component Designator: OldDesignator=C44_1 NewDesignator=C44_2
+Change Component Designator: OldDesignator=C45_1 NewDesignator=C45_2
+Change Component Designator: OldDesignator=L7_1 NewDesignator=L7_2
+Change Component Designator: OldDesignator=R47_1 NewDesignator=R47_2
+Added Pin To Net: NetName=+12V Pin=C7_Vcc_5-1
+Added Pin To Net: NetName=ADCINA3 Pin=C7_Vcc_5-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_1-1
+Added Pin To Net: NetName=+12V Pin=C12V_1-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_2-1
+Added Pin To Net: NetName=+12V Pin=C12V_2-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_3-1
+Added Pin To Net: NetName=+12V Pin=C12V_3-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_4-1
+Added Pin To Net: NetName=+12V Pin=C12V_4-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_5-1
+Added Pin To Net: NetName=+12V Pin=C12V_5-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_6-1
+Added Pin To Net: NetName=+12V Pin=C12V_6-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_7-1
+Added Pin To Net: NetName=+12V Pin=C12V_7-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_8-1
+Added Pin To Net: NetName=+12V Pin=C12V_8-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_9-1
+Added Pin To Net: NetName=+12V Pin=C12V_9-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_10-1
+Added Pin To Net: NetName=+12V Pin=C12V_10-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_11-1
+Added Pin To Net: NetName=+12V Pin=C12V_11-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_12-1
+Added Pin To Net: NetName=+12V Pin=C12V_12-2
+Added Pin To Net: NetName=ADCINA3 Pin=C12V_13-1
+Added Pin To Net: NetName=+12V Pin=C12V_13-2
+Added Pin To Net: NetName=+3V3 Pin=C43_2-1
+Added Pin To Net: NetName=ADCINA3 Pin=C43_2-2
+Added Pin To Net: NetName=ADCINA3 Pin=C44_2-1
+Added Pin To Net: NetName=+5V Pin=C44_2-2
+Added Pin To Net: NetName=ADCINA3 Pin=C45_2-1
+Added Pin To Net: NetName=+3V3 Pin=C45_2-2
+Added Pin To Net: NetName=NetCboot_1 Pin=Cboot-1
+Added Pin To Net: NetName=NetCboot_2 Pin=Cboot-2
+Added Pin To Net: NetName=NetCbst_5_1 Pin=Cbst_5-1
+Added Pin To Net: NetName=NetCbst_5_2 Pin=Cbst_5-2
+Added Pin To Net: NetName=NetCbyp_5_1 Pin=Cbyp_5-1
+Added Pin To Net: NetName=0 Pin=Cbyp_5-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Ccomp2-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp2-2
+Added Pin To Net: NetName=TPS_FB Pin=Ccomp2_5-1
+Added Pin To Net: NetName=NetCcomp2_5_2 Pin=Ccomp2_5-2
+Added Pin To Net: NetName=NetCcomp3_5_1 Pin=Ccomp3_5-1
+Added Pin To Net: NetName=TPS_FB Pin=Ccomp3_5-2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Ccomp-1
+Added Pin To Net: NetName=NetCcomp_2 Pin=Ccomp-2
+Added Pin To Net: NetName=NetCcomp_5_1 Pin=Ccomp_5-1
+Added Pin To Net: NetName=NetCcomp2_5_2 Pin=Ccomp_5-2
+Added Pin To Net: NetName=BATTERY+ Pin=Cin_1-1
+Added Pin To Net: NetName=ADCINA3 Pin=Cin_1-2
+Added Pin To Net: NetName=BATTERY+ Pin=Cin_2-1
+Added Pin To Net: NetName=ADCINA3 Pin=Cin_2-2
+Added Pin To Net: NetName=BATTERY+ Pin=Cinx-1
+Added Pin To Net: NetName=ADCINA3 Pin=Cinx-2
+Added Pin To Net: NetName=5V Pin=Cout_5-1
+Added Pin To Net: NetName=ADCINA3 Pin=Cout_5-2
+Added Pin To Net: NetName=NetCramp_1 Pin=Cramp-1
+Added Pin To Net: NetName=ADCINA3 Pin=Cramp-2
+Added Pin To Net: NetName=NetCss_1 Pin=Css-1
+Added Pin To Net: NetName=ADCINA3 Pin=Css-2
+Added Pin To Net: NetName=NetCss_5_1 Pin=Css_5-1
+Added Pin To Net: NetName=0 Pin=Css_5-2
+Added Pin To Net: NetName=NetCvcc_1 Pin=Cvcc-1
+Added Pin To Net: NetName=ADCINA3 Pin=Cvcc-2
+Added Pin To Net: NetName=NetCvcc_1 Pin=D1-1
+Added Pin To Net: NetName=NetCboot_1 Pin=D1-2
+Added Pin To Net: NetName=NetCboot_2 Pin=L1-1
+Added Pin To Net: NetName=+12V Pin=L1-2
+Added Pin To Net: NetName=NetCbst_5_2 Pin=L1_5-1
+Added Pin To Net: NetName=5V Pin=L1_5-2
+Added Pin To Net: NetName=+3V3 Pin=L7_2-P$1
+Added Pin To Net: NetName=NetL7_2_P$2 Pin=L7_2-P$2
+Added Pin To Net: NetName=BATTERY+ Pin=LM5116-1
+Added Pin To Net: NetName=NetLM5116_2 Pin=LM5116-2
+Added Pin To Net: NetName=NetLM5116_3 Pin=LM5116-3
+Added Pin To Net: NetName=NetLM5116_4 Pin=LM5116-4
+Added Pin To Net: NetName=NetCramp_1 Pin=LM5116-5
+Added Pin To Net: NetName=ADCINA3 Pin=LM5116-6
+Added Pin To Net: NetName=NetCss_1 Pin=LM5116-7
+Added Pin To Net: NetName=NetCcomp2_2 Pin=LM5116-8
+Added Pin To Net: NetName=NetCcomp2_1 Pin=LM5116-9
+Added Pin To Net: NetName=+12V Pin=LM5116-10
+Added Pin To Net: NetName=ADCINA3 Pin=LM5116-11
+Added Pin To Net: NetName=NetLM5116_12 Pin=LM5116-12
+Added Pin To Net: NetName=ADCINA3 Pin=LM5116-13
+Added Pin To Net: NetName=ADCINA3 Pin=LM5116-14
+Added Pin To Net: NetName=NetLM5116_15 Pin=LM5116-15
+Added Pin To Net: NetName=NetCvcc_1 Pin=LM5116-16
+Added Pin To Net: NetName=NetLM5116_17 Pin=LM5116-17
+Added Pin To Net: NetName=NetCboot_1 Pin=LM5116-18
+Added Pin To Net: NetName=NetLM5116_19 Pin=LM5116-19
+Added Pin To Net: NetName=NetCboot_2 Pin=LM5116-20
+Added Pin To Net: NetName=ADCINA3 Pin=LM5116-21
+Added Pin To Net: NetName=NetCboot_2 Pin=M1-1
+Added Pin To Net: NetName=NetCboot_2 Pin=M1-2
+Added Pin To Net: NetName=NetCboot_2 Pin=M1-3
+Added Pin To Net: NetName=NetLM5116_19 Pin=M1-4
+Added Pin To Net: NetName=BATTERY+ Pin=M1-5
+Added Pin To Net: NetName=BATTERY+ Pin=M1-6
+Added Pin To Net: NetName=BATTERY+ Pin=M1-7
+Added Pin To Net: NetName=BATTERY+ Pin=M1-8
+Added Pin To Net: NetName=BATTERY+ Pin=M1-9
+Added Pin To Net: NetName=NetLM5116_12 Pin=M2-1
+Added Pin To Net: NetName=NetLM5116_12 Pin=M2-2
+Added Pin To Net: NetName=NetLM5116_12 Pin=M2-3
+Added Pin To Net: NetName=NetLM5116_15 Pin=M2-4
+Added Pin To Net: NetName=NetCboot_2 Pin=M2-5
+Added Pin To Net: NetName=NetCboot_2 Pin=M2-6
+Added Pin To Net: NetName=NetCboot_2 Pin=M2-7
+Added Pin To Net: NetName=NetCboot_2 Pin=M2-8
+Added Pin To Net: NetName=NetCboot_2 Pin=M2-9
+Added Pin To Net: NetName=+3V3 Pin=R47_2-1
+Added Pin To Net: NetName=NetR47_2_2 Pin=R47_2-2
+Added Pin To Net: NetName=5V Pin=Rcomp2_5-1
+Added Pin To Net: NetName=NetCcomp3_5_1 Pin=Rcomp2_5-2
+Added Pin To Net: NetName=NetCcomp_2 Pin=Rcomp-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rcomp-2
+Added Pin To Net: NetName=NetCcomp_5_1 Pin=Rcomp_5-1
+Added Pin To Net: NetName=TPS_FB Pin=Rcomp_5-2
+Added Pin To Net: NetName=BATTERY+ Pin=Renable-1
+Added Pin To Net: NetName=NetLM5116_4 Pin=Renable-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rfbb-1
+Added Pin To Net: NetName=ADCINA3 Pin=Rfbb-2
+Added Pin To Net: NetName=TPS_FB Pin=Rfbb_5-1
+Added Pin To Net: NetName=ADCINA3 Pin=Rfbb_5-2
+Added Pin To Net: NetName=+12V Pin=Rfbt-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rfbt-2
+Added Pin To Net: NetName=5V Pin=Rfbt_5-1
+Added Pin To Net: NetName=TPS_FB Pin=Rfbt_5-2
+Added Pin To Net: NetName=NetCbyp_5_1 Pin=Rpgood_5-1
+Added Pin To Net: NetName=NetRpgood_5_2 Pin=Rpgood_5-2
+Added Pin To Net: NetName=NetCvcc_1 Pin=Rramp-1
+Added Pin To Net: NetName=NetCramp_1 Pin=Rramp-2
+Added Pin To Net: NetName=NetQ2_5_4 Pin=Rs_5-1
+Added Pin To Net: NetName=ADCINA3 Pin=Rs_5-2
+Added Pin To Net: NetName=NetLM5116_12 Pin=Rsense-1
+Added Pin To Net: NetName=ADCINA3 Pin=Rsense-2
+Added Pin To Net: NetName=NetLM5116_3 Pin=Rt-1
+Added Pin To Net: NetName=ADCINA3 Pin=Rt-2
+Added Pin To Net: NetName=NetLM5116_2 Pin=Ruv1-1
+Added Pin To Net: NetName=ADCINA3 Pin=Ruv1-2
+Added Pin To Net: NetName=BATTERY+ Pin=Ruv2-1
+Added Pin To Net: NetName=NetLM5116_2 Pin=Ruv2-2
+Added Pin To Net: NetName=+12V Pin=TPS40305DRCR-1
+Added Pin To Net: NetName=NetCss_5_1 Pin=TPS40305DRCR-2
+Added Pin To Net: NetName=NetRpgood_5_2 Pin=TPS40305DRCR-3
+Added Pin To Net: NetName=NetCcomp2_5_2 Pin=TPS40305DRCR-4
+Added Pin To Net: NetName=TPS_FB Pin=TPS40305DRCR-5
+Added Pin To Net: NetName=NetCbst_5_1 Pin=TPS40305DRCR-6
+Added Pin To Net: NetName=NetQ1_5_4 Pin=TPS40305DRCR-7
+Added Pin To Net: NetName=NetCbst_5_2 Pin=TPS40305DRCR-8
+Added Pin To Net: NetName=NetQ2_5_4 Pin=TPS40305DRCR-9
+Added Pin To Net: NetName=NetCbyp_5_1 Pin=TPS40305DRCR-10
+Added Pin To Net: NetName=ADCINA3 Pin=TPS40305DRCR-11
+Added Pin To Net: NetName=ADCINA3 Pin=U17_2-P$1
+Added Pin To Net: NetName=+5V Pin=U17_2-P$2
+Added Pin To Net: NetName=+5V Pin=U17_2-P$3
+Added Pin To Net: NetName=ADCINA3 Pin=U17_2-P$4
+Added Pin To Net: NetName=ADCINA3 Pin=U17_2-P$5
+Added Pin To Net: NetName=+3V3 Pin=U17_2-P$6
+Added Pin To Net: NetName=NetL7_2_P$2 Pin=U17_2-P$7
+Added Pin To Net: NetName=NetR47_2_2 Pin=U17_2-P$8
+Added Pin To Net: NetName=ADCINA3 Pin=U17_2-P$9
+Added Member To Class: ClassName=12V_to_5V Member=Component C7_Vcc_5 GRM188R61E105KA1
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_1 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_2 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_3 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_4 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_5 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_6 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_7 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_8 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_9 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_10 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_11 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_12 10uF
+Added Member To Class: ClassName=90V_to_12V Member=Component C12V_13 10uF
+Added Member To Class: ClassName=12V_to_3V3 Member=Component C43_2 0.1u
+Added Member To Class: ClassName=12V_to_3V3 Member=Component C44_2 10uF
+Added Member To Class: ClassName=12V_to_3V3 Member=Component C45_2 22uF
+Added Member To Class: ClassName=90V_to_12V Member=Component Cboot EMK212B7105KG-T
+Added Member To Class: ClassName=12V_to_5V Member=Component Cbst_5 08053C104KAT2A
+Added Member To Class: ClassName=12V_to_5V Member=Component Cbyp_5 C1608X5R1A105K
+Added Member To Class: ClassName=12V_to_5V Member=Component Ccomp2_5 C0805C181K5GACTU
+Added Member To Class: ClassName=90V_to_12V Member=Component Ccomp2 C2012C0G1H271J
+Added Member To Class: ClassName=12V_to_5V Member=Component Ccomp3_5 CC0805KRX7R9BB82
+Added Member To Class: ClassName=12V_to_5V Member=Component Ccomp_5 CC0805KRX7R9BB47
+Added Member To Class: ClassName=90V_to_12V Member=Component Ccomp GRM216R71H103KA01D
+Added Member To Class: ClassName=90V_to_12V Member=Component Cin_1 C5750X7S2A106M
+Added Member To Class: ClassName=90V_to_12V Member=Component Cin_2 C5750X7S2A106M
+Added Member To Class: ClassName=90V_to_12V Member=Component Cinx C2012X7R2A104K
+Added Member To Class: ClassName=12V_to_5V Member=Component Cout_5 CC0603MRX5R5BB10
+Added Member To Class: ClassName=90V_to_12V Member=Component Cramp CC0805KRX7R9BB332
+Added Member To Class: ClassName=12V_to_5V Member=Component Css_5 GRM033R71C332KA8
+Added Member To Class: ClassName=90V_to_12V Member=Component Css GRM216R71H103KA01D
+Added Member To Class: ClassName=90V_to_12V Member=Component Cvcc EMK212B7105KG-T
+Added Member To Class: ClassName=90V_to_12V Member=Component D1 ES1J-TP
+Added Member To Class: ClassName=12V_to_5V Member=Component L1_5 SRP6540-1R5M
+Added Member To Class: ClassName=90V_to_12V Member=Component L1 PM2120-151K-RC
+Added Member To Class: ClassName=12V_to_3V3 Member=Component L7_2 2.2uH
+Added Member To Class: ClassName=90V_to_12V Member=Component LM5116 LM5116MHX/NOPB
+Added Member To Class: ClassName=90V_to_12V Member=Component M1 CSD19534Q5A
+Added Member To Class: ClassName=90V_to_12V Member=Component M2 BSC320N20NS3 G
+Added Member To Class: ClassName=12V_to_5V Member=Component Q1_5 CSD17308Q3
+Added Member To Class: ClassName=12V_to_3V3 Member=Component R47_2 100K
+Added Member To Class: ClassName=12V_to_5V Member=Component Rcomp2_5 CRCW0402412RFKED
+Added Member To Class: ClassName=12V_to_5V Member=Component Rcomp_5 CRCW04021K69FKED
+Added Member To Class: ClassName=90V_to_12V Member=Component Rcomp ERJ-6ENF2212V
+Added Member To Class: ClassName=90V_to_12V Member=Component Renable ERJ-6ENF1004V
+Added Member To Class: ClassName=12V_to_5V Member=Component Rfbb_5 CRCW04021K37FKED
+Added Member To Class: ClassName=90V_to_12V Member=Component Rfbb ERJ-6ENF1101V
+Added Member To Class: ClassName=12V_to_5V Member=Component Rfbt_5 CRCW040210K0FKED
+Added Member To Class: ClassName=90V_to_12V Member=Component Rfbt ERJ-6ENF9761V
+Added Member To Class: ClassName=12V_to_5V Member=Component Rpgood_5 CRCW0402100KFKED
+Added Member To Class: ClassName=90V_to_12V Member=Component Rramp ERJ-6ENF4753V
+Added Member To Class: ClassName=12V_to_5V Member=Component Rs_5 CRCW04026K04FKED
+Added Member To Class: ClassName=90V_to_12V Member=Component Rsense PRL1632-R016-F-T1
+Added Member To Class: ClassName=90V_to_12V Member=Component Rt ERJ-6ENF6812V
+Added Member To Class: ClassName=90V_to_12V Member=Component Ruv1 ERJ-6ENF2741V
+Added Member To Class: ClassName=90V_to_12V Member=Component Ruv2 ERJ-6ENF8662V
+Added Member To Class: ClassName=12V_to_5V Member=Component TPS40305DRCR
+Added Member To Class: ClassName=12V_to_3V3 Member=Component U17_2 TPS62162DSGR
+Change Room Name: Old Name=Bluetooth New Name=90V_to_12V
+Change Room Scope: Old Scope=InComponentClass('Bluetooth') New Scope=InComponentClass('90V_to_12V')
+Added Room: Name=12V_to_3V3
+Added Room: Name=12V_to_5V
