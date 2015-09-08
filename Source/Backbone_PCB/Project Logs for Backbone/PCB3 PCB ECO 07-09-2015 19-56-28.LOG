@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-17
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-18
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-19
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-20
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-31
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-32
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-33
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-34
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-35
+Removed Pin From Net: NetName=ADCINA3 Pin=TMS320F28069-60
+Added Component: Designator=net-tie_1(Net-Tie)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=USB_0(32005-201)
+Added Pin To Net: NetName=ADCINA3 Pin=net-tie_1-2
+Added Pin To Net: NetName=ADCINA3 Pin=P?-1
+Added Pin To Net: NetName=BATTERY+ Pin=P?-2
+Added Pin To Net: NetName=5V Pin=USB_0-1
+Added Pin To Net: NetName=5V Pin=USB_0-1
+Added Pin To Net: NetName=5V Pin=USB_0-1
+Added Pin To Net: NetName=GPIO27 Pin=USB_0-2
+Added Pin To Net: NetName=GPIO26 Pin=USB_0-3
+Added Pin To Net: NetName=ADCINA3 Pin=USB_0-5
+Change Net Name : Old Net Name=ADCINA3 New Net Name=GND
+Change Net Name : Old Net Name=D+ New Net Name=D_P
+Change Net Name : Old Net Name=D- New Net Name=D_N
+Added Pin To Net: NetName=BGND Pin=net-tie_1-1
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-17
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-18
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-19
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-20
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-31
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-32
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-33
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-34
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-35
+Added Pin To Net: NetName=BGND Pin=TMS320F28069-60
+Added Net: Name=BGND
+Added Pin To Net: NetName=NetUSB_0_4 Pin=USB_0-4
+Added Net: Name=NetUSB_0_4
+Added Member To Class: ClassName=[01]_Backbone Member=Component D4_2 LEDCHIP-LED0603
+Added Member To Class: ClassName=[01]_Backbone Member=Component net-tie_1 NET-TIE
+Added Member To Class: ClassName=90V_to_12V Member=Component P? Header 2
+Added Member To Class: ClassName=[01]_Backbone Member=Component U7 ISO7231
+Added Member To Class: ClassName=[01]_Backbone Member=Component USB_0 UBC05V128-B0C04D

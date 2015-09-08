@@ -14,3 +14,5 @@ ProjectPath=Tools\UL_Import.PrjScr
 ProjectPath=..\..\..\..\..\Public\Documents\Altium\AD15\Library\Miscellaneous Connectors\Miscellaneous Connectors.LibPkg
 [Project7]
 ProjectPath=Backbone_PCB\Backbone1\Backbone.LibPkg
+[Project8]
+ProjectPath=Backbone_PCB\Backbone2\Backbone.LibPkg

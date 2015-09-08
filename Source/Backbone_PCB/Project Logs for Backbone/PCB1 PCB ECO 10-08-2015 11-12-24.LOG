@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=+12V Pin=Cout-1
-Removed Pin From Net: NetName=GND Pin=Cout-2
-Removed Member From Class: ClassName=90V_to_12V Member=Cout
-Added Pin To Net: NetName=BATTERY+ Pin=B_DiV_T-1
