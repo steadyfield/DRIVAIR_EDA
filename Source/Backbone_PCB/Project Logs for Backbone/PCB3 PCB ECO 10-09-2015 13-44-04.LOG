@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=USB_0-5
+Change Component DesignItemId : Designator=USB_0 Old DesignItemId=MINI-USB-32005-201 New DesignItemId=Header 4
+Change Component Comment : Designator=USB_0 Old Comment=UBC05V128-B0C04D New Comment=Header 4
+Change Component Description : Designator=USB_0 Old Description=<b>MINI USB-B Conector</b><p>
+Source: www.cypressindustries.com New Description=Header, 4-Pin
+Change Component Library : Designator=USB_0 Old Library=Backbone_1.SCHLIB New Library=Miscellaneous Connectors.IntLib
+Added Pin To Net: NetName=GND Pin=USB_0-4

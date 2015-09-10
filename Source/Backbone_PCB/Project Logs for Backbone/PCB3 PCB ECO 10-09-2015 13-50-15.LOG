@@ -1,0 +1,6 @@
+Added Component: Designator=USB_1(HDR1X4)
+Added Pin To Net: NetName=5V Pin=USB_1-1
+Added Pin To Net: NetName=GPIO27 Pin=USB_1-2
+Added Pin To Net: NetName=GPIO26 Pin=USB_1-3
+Added Pin To Net: NetName=GND Pin=USB_1-4
+Added Member To Class: ClassName=[01]_Backbone Member=Component USB_1 Header 4
