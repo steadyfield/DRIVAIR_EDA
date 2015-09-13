@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=+3V3 ON NewDesignator=D1_2
+Change Component Designator: OldDesignator=TMS320F28069M NewDesignator=TMS320F28069
+Added Component: Designator=net-tie_2(Net-Tie)
+Added Component: Designator=net-tie_3(Net-Tie)
+Added Pin To Net: NetName=BGND Pin=net-tie_2-1
+Added Pin To Net: NetName=GND Pin=net-tie_2-2
+Added Pin To Net: NetName=BGND Pin=net-tie_3-1
+Added Pin To Net: NetName=GND Pin=net-tie_3-2
+Added Member To Class: ClassName=[01]_Backbone Member=Component net-tie_2 NET-TIE
+Added Member To Class: ClassName=[01]_Backbone Member=Component net-tie_3 NET-TIE
