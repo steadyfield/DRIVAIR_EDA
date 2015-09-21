@@ -37,6 +37,57 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Backbone2\[02]_90Vto12V.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GNVTKIFE
+
+[Document2]
+DocumentPath=Backbone2\PCB1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IYTARXFR
+
+[Document3]
+DocumentPath=Backbone2\Backbone_1.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
 DocumentPath=[01]_Backbone.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDVOEFVL
 
-[Document2]
+[Document5]
 DocumentPath=[03]_5V_DCDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIWNKELY
 
-[Document3]
+[Document6]
 DocumentPath=[02]_90Vto12V.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXSHUGSU
 
-[Document4]
+[Document7]
 DocumentPath=[11]_3V3_DCDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDBPSWGO
 
-[Document5]
+[Document8]
 DocumentPath=Backbone.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
