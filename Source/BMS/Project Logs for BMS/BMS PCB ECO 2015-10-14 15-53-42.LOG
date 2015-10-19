@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=CELL11 Pin=C24-1
+Removed Pin From Net: NetName=CELL23 Pin=C24b-1
+Removed Pin From Net: NetName=CELL10 Pin=C25-1
+Removed Pin From Net: NetName=CELL22 Pin=C25b-1
+Removed Pin From Net: NetName=CELL9 Pin=C26-1
+Removed Pin From Net: NetName=CELL21 Pin=C26b-1
+Removed Pin From Net: NetName=CELL8 Pin=C27-1
+Removed Pin From Net: NetName=CELL20 Pin=C27b-1
+Removed Pin From Net: NetName=CELL7 Pin=C28-1
+Removed Pin From Net: NetName=CELL19 Pin=C28b-1
+Removed Pin From Net: NetName=CELL6 Pin=C29-1
+Removed Pin From Net: NetName=CELL18 Pin=C29b-1
+Removed Pin From Net: NetName=CELL5 Pin=C30-1
+Removed Pin From Net: NetName=CELL17 Pin=C30b-1
+Removed Pin From Net: NetName=CELL4 Pin=C31-1
+Removed Pin From Net: NetName=CELL16 Pin=C31b-1
+Removed Pin From Net: NetName=CELL3 Pin=C32-1
+Removed Pin From Net: NetName=CELL15 Pin=C32b-1
+Removed Pin From Net: NetName=CELL2 Pin=C33-1
+Removed Pin From Net: NetName=CELL14 Pin=C33b-1
+Removed Pin From Net: NetName=CELL1 Pin=C34-1
+Removed Pin From Net: NetName=CELL13 Pin=C34b-1
+Added Pin To Net: NetName=NetC11_1 Pin=C24-1
+Added Pin To Net: NetName=NetC11b_1 Pin=C24b-1
+Added Pin To Net: NetName=NetC10_1 Pin=C25-1
+Added Pin To Net: NetName=NetC10b_1 Pin=C25b-1
+Added Pin To Net: NetName=NetC9_1 Pin=C26-1
+Added Pin To Net: NetName=NetC9b_1 Pin=C26b-1
+Added Pin To Net: NetName=NetC8_1 Pin=C27-1
+Added Pin To Net: NetName=NetC8b_1 Pin=C27b-1
+Added Pin To Net: NetName=NetC7_1 Pin=C28-1
+Added Pin To Net: NetName=NetC7b_1 Pin=C28b-1
+Added Pin To Net: NetName=NetC6_1 Pin=C29-1
+Added Pin To Net: NetName=NetC6b_1 Pin=C29b-1
+Added Pin To Net: NetName=NetC5_1 Pin=C30-1
+Added Pin To Net: NetName=NetC5b_1 Pin=C30b-1
+Added Pin To Net: NetName=NetC4_1 Pin=C31-1
+Added Pin To Net: NetName=NetC4b_1 Pin=C31b-1
+Added Pin To Net: NetName=NetC3_1 Pin=C32-1
+Added Pin To Net: NetName=NetC3b_1 Pin=C32b-1
+Added Pin To Net: NetName=NetC2_1 Pin=C33-1
+Added Pin To Net: NetName=NetC2b_1 Pin=C33b-1
+Added Pin To Net: NetName=NetC1_1 Pin=C34-1
+Added Pin To Net: NetName=NetC1b_1 Pin=C34b-1
+Added Member To Class: ClassName=BMS Member=Component C1 Cap, 0805, OPT
+Added Member To Class: ClassName=BMS Member=Component C2 Cap, 0805, OPT
+Added Member To Class: ClassName=BMS Member=Component C3 Cap, 0805, OPT
+Added Member To Class: ClassName=BMS Member=Component C33 10nF
+Added Member To Class: ClassName=BMS Member=Component C34 10nF
+Added Member To Class: ClassName=BMS Member=Component C35 10nF
+Added Member To Class: ClassName=BMS Member=Component LED1 LSTST-C190KGKT
+Added Member To Class: ClassName=BMS Member=Component LED2 LSTST-C190KGKT
+Added Member To Class: ClassName=BMS Member=Component LED3 LSTST-C190KGKT
+Added Member To Class: ClassName=BMS Member=Component Q1 RQJ0303PGDQA
+Added Member To Class: ClassName=BMS Member=Component Q2 RQJ0303PGDQA
+Added Member To Class: ClassName=BMS Member=Component Q3 RQJ0303PGDQA
+Added Member To Class: ClassName=BMS Member=Component R1 100
+Added Member To Class: ClassName=BMS Member=Component R2 100
+Added Member To Class: ClassName=BMS Member=Component R3 100
+Added Member To Class: ClassName=BMS Member=Component R13 3.3k
+Added Member To Class: ClassName=BMS Member=Component R14 3.3k
+Added Member To Class: ClassName=BMS Member=Component R15 3.3k
+Added Member To Class: ClassName=BMS Member=Component R25 475
+Added Member To Class: ClassName=BMS Member=Component R26 475
+Added Member To Class: ClassName=BMS Member=Component R27 475

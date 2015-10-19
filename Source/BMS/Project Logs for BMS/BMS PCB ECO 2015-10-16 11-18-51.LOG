@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetQ13_B Pin=Q13-1
+Added Pin To Net: NetName=NetC23_2 Pin=Q13-2
+Added Pin To Net: NetName=VREG Pin=Q13-3
+Added Pin To Net: NetName=NetC23_2 Pin=Q13-4
+Added Pin To Net: NetName=NetQ13b_B Pin=Q13b-1
+Added Pin To Net: NetName=NetC23b_2 Pin=Q13b-2
+Added Pin To Net: NetName=VREGB Pin=Q13b-3
+Added Pin To Net: NetName=NetC23b_2 Pin=Q13b-4
+Change Net Name : Old Net Name=NetQ13_B New Net Name=NetQ13_1
+Change Net Name : Old Net Name=NetQ13b_B New Net Name=NetQ13b_1
